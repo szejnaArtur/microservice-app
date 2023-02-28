@@ -3,7 +3,6 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/rest-microservices/pom.xml" />
         <option value="$PROJECT_DIR$/limits-microservices/pom.xml" />
       </list>
     </option>

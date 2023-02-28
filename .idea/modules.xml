@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/limits-microservices/limits-microservices.iml" filepath="$PROJECT_DIR$/limits-microservices/limits-microservices.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/microservices.iml" filepath="$PROJECT_DIR$/.idea/microservices.iml" />
-      <module fileurl="file://$PROJECT_DIR$/rest-microservices/rest-microservices.iml" filepath="$PROJECT_DIR$/rest-microservices/rest-microservices.iml" />
     </modules>
   </component>
 </project>

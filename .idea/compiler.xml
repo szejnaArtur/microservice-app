@@ -7,7 +7,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="limits-microservices" />
-        <module name="rest-microservices" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
